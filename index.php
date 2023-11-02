@@ -1,6 +1,6 @@
 <?PHP
 $data = '{
-"name":"Edwin",
+"name":"Fadli",
 "address":"Indonesia"
 }';
 header('Content-Type: application/json');
